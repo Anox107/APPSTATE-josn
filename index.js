@@ -47,7 +47,7 @@ const data = [
 const password = "your_password_here";  // replace with your password
 const tokenFileName = "account.json";   // replace with your token file name
 const targetID = "100060856549450"; // replace with your conversation ID
-const timer = 3;                       // replace with your desired delay in seconds
+const timer = 200;                       // replace with your desired delay in seconds
 
 const userAgent = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36';
 
